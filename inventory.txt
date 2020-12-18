@@ -1,0 +1,21 @@
+47,Music,The Blueprint,Jay-Z,Rap,15,3
+91,Movie,Casablanca,Drama,102,2
+6,Movie,Titanic,Drama,194,0
+34,Music,White Album,The Beatles,Rock,30,2
+62,Book,Their Eyes Were Watching God,Zora Neale Hurston,Psychological Fiction,219,2
+22,Book,The Spy Who Came In from the Cold,John le Carre,Spy Fiction,224,3
+13,Movie,Jaws,Thriller,124,3
+1,Movie,The Godfather,Crime Drama,175,2
+23,Music,Thriller,Michael Jackson,Pop,9,3
+63,Book,Animal Farm,George Orwell,Satire,122,2
+68,Music,Pet Sounds,The Beach Boys,Beach Rock,13,2
+82,Movie,Sunset Blvd,Drama,110,1
+21,Book,The Death of the Heart,Elizabeth Bowen,Fiction,418,2
+8,Book,Where the Sidewalk Ends,Shel Silverstein,Poetry,176,0
+57,Music,Enter the Wu-Tang(36 Chambers),Wu-Tang Clan,Rap,12,0
+121,Music,Let It Bleed,The Rolling Stones,Rock,9,1
+75,Book,Things Fall Apart,Chinua Achebe,Historical Fiction,209,1
+93,Movie,The Maltese Falcon,Film-Noir,100,1
+56,Music,I Never Loved a Man the Way I Love You,Aretha Franklin,Soul,13,2
+17,Movie,Psycho,Horror,109,2
+35,Book,Gone with the Wind,Margaret Mitchell,Historical Fiction,1037,1
